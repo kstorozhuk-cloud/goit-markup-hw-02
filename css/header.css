@@ -1,0 +1,49 @@
+#header {
+    height: 72px;
+    border-bottom: 1px solid #e7e9fc;
+    background-color: #ffffff;
+}
+
+.header-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 76px;
+
+    font-size: 18px;
+    font-weight: 700;
+    color: #4d5ae5;
+}
+
+.header-container nav {
+    margin-right: auto;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-list a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.contacts-list {
+    display: flex;
+    gap: 40px;
+}
+
+.contacts-list a {
+    font-size: 14px;
+    font-style: normal;
+    color: #434455;
+}
+
+address {
+    font-style: normal;
+}
