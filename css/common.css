@@ -38,21 +38,4 @@ address {
     font-style: normal;
 }
 
-.header-container {
-    display: flex;
-    align-items: center;
-}
-
-.logo {
-    margin-right: 76px;
-}
-
-.nav-list {
-    display: flex;
-    gap: 40px;
-}
-
-.header nav {
-    margin-right: auto;
-}
 
